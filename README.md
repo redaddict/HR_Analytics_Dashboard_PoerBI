@@ -1,4 +1,4 @@
-# HR_Analytics_Dashboard_PoerBI
+# HR_Analytics_Dashboard_PowerBI
 The project creating a dashboard in Power BI using a Employees dataset. 
 Here are some key insights from the HR Analytics Dashboard-
 
